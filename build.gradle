@@ -14,7 +14,7 @@ buildscript {
         roboVMVersion = json.robovmVersion
         roboVMGradleVersion = json.robovmPluginVersion
         androidToolsVersion = json.androidBuildtoolsVersion
-        androidSDKVersion = json.androidSDKVersion
+        androidSDKVersion = "23"
         androidGradleToolsVersion = json.androidGradleToolVersion
         gwtVersion = json.gwtVersion
         gwtGradleVersion = json.gwtPluginVersion
